@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-01T19:53:45 IST" name="Default suite" finished-at="2023-12-01T19:53:50 IST" duration-ms="4922">
+    <groups>
+    </groups>
+    <test started-at="2023-12-01T19:53:45 IST" name="Default test" finished-at="2023-12-01T19:53:50 IST" duration-ms="4922">
+      <class name="xmlResponse_Approch2">
+        <test-method signature="validatexmlresapp2()[pri:0, instance:xmlResponse_Approch2@2794eab6]" started-at="2023-12-01T19:53:45 IST" name="validatexmlresapp2" finished-at="2023-12-01T19:53:50 IST" duration-ms="4796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatexmlresapp2 -->
+      </class> <!-- xmlResponse_Approch2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
