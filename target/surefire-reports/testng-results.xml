@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-03T17:35:59 IST" name="Suite" finished-at="2023-12-03T17:36:14 IST" duration-ms="15144">
+    <groups>
+    </groups>
+    <test started-at="2023-12-03T17:35:59 IST" name="Test" finished-at="2023-12-03T17:36:14 IST" duration-ms="15144">
+      <class name="com.restapiexa.ValidateBasicAuth_Premptive">
+        <test-method signature="BasicAuth_pre()[pri:0, instance:com.restapiexa.ValidateBasicAuth_Premptive@34f7cfd9]" started-at="2023-12-03T17:36:10 IST" name="BasicAuth_pre" finished-at="2023-12-03T17:36:11 IST" duration-ms="1332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasicAuth_pre -->
+      </class> <!-- com.restapiexa.ValidateBasicAuth_Premptive -->
+      <class name="com.restapiexa.Deserialize">
+        <test-method signature="DeserializeJsonResponse()[pri:0, instance:com.restapiexa.Deserialize@6a370f4]" started-at="2023-12-03T17:35:59 IST" name="DeserializeJsonResponse" finished-at="2023-12-03T17:36:09 IST" duration-ms="10054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeserializeJsonResponse -->
+      </class> <!-- com.restapiexa.Deserialize -->
+      <class name="com.restapiexa.ValidateQueryParam">
+        <test-method signature="validateQueery()[pri:0, instance:com.restapiexa.ValidateQueryParam@65f095f8]" started-at="2023-12-03T17:36:11 IST" name="validateQueery" finished-at="2023-12-03T17:36:14 IST" duration-ms="3489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateQueery -->
+      </class> <!-- com.restapiexa.ValidateQueryParam -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

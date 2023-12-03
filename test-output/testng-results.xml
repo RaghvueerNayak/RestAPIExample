@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-01T19:53:45 IST" name="Default suite" finished-at="2023-12-01T19:53:50 IST" duration-ms="4922">
+  <suite started-at="2023-12-03T17:25:20 IST" name="Suite" finished-at="2023-12-03T17:25:29 IST" duration-ms="8921">
     <groups>
     </groups>
-    <test started-at="2023-12-01T19:53:45 IST" name="Default test" finished-at="2023-12-01T19:53:50 IST" duration-ms="4922">
-      <class name="xmlResponse_Approch2">
-        <test-method signature="validatexmlresapp2()[pri:0, instance:xmlResponse_Approch2@2794eab6]" started-at="2023-12-01T19:53:45 IST" name="validatexmlresapp2" finished-at="2023-12-01T19:53:50 IST" duration-ms="4796" status="PASS">
+    <test started-at="2023-12-03T17:25:20 IST" name="Test" finished-at="2023-12-03T17:25:29 IST" duration-ms="8921">
+      <class name="com.restapiexa.ValidateBasicAuth_Premptive">
+        <test-method signature="BasicAuth_pre()[pri:0, instance:com.restapiexa.ValidateBasicAuth_Premptive@2805d709]" started-at="2023-12-03T17:25:28 IST" name="BasicAuth_pre" finished-at="2023-12-03T17:25:29 IST" duration-ms="1510" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- validatexmlresapp2 -->
-      </class> <!-- xmlResponse_Approch2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- BasicAuth_pre -->
+      </class> <!-- com.restapiexa.ValidateBasicAuth_Premptive -->
+      <class name="com.restapiexa.Deserialize">
+        <test-method signature="DeserializeJsonResponse()[pri:0, instance:com.restapiexa.Deserialize@6fd83fc1]" started-at="2023-12-03T17:25:20 IST" name="DeserializeJsonResponse" finished-at="2023-12-03T17:25:27 IST" duration-ms="7285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeserializeJsonResponse -->
+      </class> <!-- com.restapiexa.Deserialize -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
