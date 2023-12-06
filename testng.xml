@@ -6,7 +6,6 @@
       <class name="com.restapiexa.Deserialize"/>
       <class name="com.restapiexa.ValidateQueryParam"/>
       <class name="com.restapiexa.ValidateBasicAuth_Premptive"/>
-   
-    </classes>
+       </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
